@@ -1,5 +1,7 @@
 # Intelligent Traffic Management and Deadlock Prevention System
 
+
+https://github.com/TAIMOURMUSHTAQ/Intelligent-Traffic-Management-OS/releases/download/v1.0.0/OS.Presentation.1.mp4
 A C-based Linux simulation that demonstrates fundamental Operating System concepts through a simulated traffic management environment.
 
 The project models vehicles as processes or concurrent entities and uses CPU scheduling, synchronization, resource allocation, deadlock management, inter-process communication, and Linux signals to demonstrate how operating system mechanisms can be applied to a real-world-inspired scenario.
