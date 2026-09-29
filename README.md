@@ -292,8 +292,8 @@ This project provides practical experience with:
 
 The project documentation references the following resources:
 
-1. *Operating System Concepts* — Abraham Silberschatz
-2. *Advanced Programming in the UNIX Environment* — W. Richard Stevens
+1. *Operating System Concepts* Abraham Silberschatz
+2. *Advanced Programming in the UNIX Environment*  W. Richard Stevens
 3. Linux Manual Pages
 4. GNU GCC Documentation
 5. POSIX Thread Programming Guide
@@ -302,6 +302,7 @@ The project documentation references the following resources:
 ## Academic Project
 
 Developed as an Operating Systems project for the Department of Computer Science, Federal Urdu University of Arts, Science and Technology, Islamabad.
+Under kind supervision of *Ms. Kinza Naseer*
 
 **Semester:** 4th
 **Section:** A
@@ -309,7 +310,7 @@ Developed as an Operating Systems project for the Department of Computer Science
 
 ### Contributors
 
-* Taimour Mushtaq
-* Hafiz Muhammad Abdullah Idrees
-* Abdur Rahman
-* Zahid Ali Akbar
+* Taimour Mushtaq (Project Lead)
+* Hafiz Muhammad Abdullah Idrees (Documentation)
+* Abdur Rahman (Project Analysis)
+* Zahid Ali Akbar (Support)
